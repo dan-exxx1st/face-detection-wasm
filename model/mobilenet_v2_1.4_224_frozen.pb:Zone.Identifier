@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://github.com/second-state/rust-wasm-ai-demo/blob/master/node/mobilenet_v2_1.4_224_frozen.pb
-HostUrl=https://raw.githubusercontent.com/second-state/rust-wasm-ai-demo/master/node/mobilenet_v2_1.4_224_frozen.pb
